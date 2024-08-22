@@ -11,9 +11,7 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: custom.scss
-    toc: true
+    theme: [cosmo, custom.scss]
 
 
 
